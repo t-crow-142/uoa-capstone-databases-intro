@@ -94,3 +94,8 @@ INSERT INTO unidb_teach (dept, num, staff_no) VALUES
   ('comp', '258', 707),
   ('ling', '219', 878),
   ('teal', '202', 919);
+
+
+
+
+
